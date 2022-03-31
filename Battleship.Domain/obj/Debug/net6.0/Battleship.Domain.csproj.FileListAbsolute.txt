@@ -1,0 +1,13 @@
+D:\workspace\c#\Battleship\Battleship.Domain\bin\Debug\net6.0\appsettings.json
+D:\workspace\c#\Battleship\Battleship.Domain\bin\Debug\net6.0\Battleship.Domain.deps.json
+D:\workspace\c#\Battleship\Battleship.Domain\bin\Debug\net6.0\Battleship.Domain.dll
+D:\workspace\c#\Battleship\Battleship.Domain\bin\Debug\net6.0\ref\Battleship.Domain.dll
+D:\workspace\c#\Battleship\Battleship.Domain\bin\Debug\net6.0\Battleship.Domain.pdb
+D:\workspace\c#\Battleship\Battleship.Domain\obj\Debug\net6.0\Battleship.Domain.csproj.AssemblyReference.cache
+D:\workspace\c#\Battleship\Battleship.Domain\obj\Debug\net6.0\Battleship.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\c#\Battleship\Battleship.Domain\obj\Debug\net6.0\Battleship.Domain.AssemblyInfoInputs.cache
+D:\workspace\c#\Battleship\Battleship.Domain\obj\Debug\net6.0\Battleship.Domain.AssemblyInfo.cs
+D:\workspace\c#\Battleship\Battleship.Domain\obj\Debug\net6.0\Battleship.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\c#\Battleship\Battleship.Domain\obj\Debug\net6.0\Battleship.Domain.dll
+D:\workspace\c#\Battleship\Battleship.Domain\obj\Debug\net6.0\ref\Battleship.Domain.dll
+D:\workspace\c#\Battleship\Battleship.Domain\obj\Debug\net6.0\Battleship.Domain.pdb
